@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋🏻 Hi, I’m Vedran Hernaus
 
-<!--
-**veks9/veks9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⌨️ Working experience as iOS Developer: 
+2+ years
 
-Here are some ideas to get you started:
+## 💼 Projects count: 
+10+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Libraries I use in everyday work: 
+RxSwift, SnapKit, Alamofire, KeychainSwift, Lottie, Combine, CombineCocoa, KingFisher
+
+## 📱 Tools that I use: 
+Figma, Slack, SourceTree, Charles, Trello, Notion, Postman, Sublime, Discord, Github, Gitlab, iTerm
+
+## 🧮 Programming languages that I use: 
+Swift, Java, JavaScript
+
+## 📚 Latest blog posts I worked on:
+https://medium.com/azikus/building-the-pokédex-in-ios-using-core-ml-db32e6089e6b
