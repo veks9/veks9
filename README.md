@@ -6,7 +6,7 @@
 ### ⌨️ Working experience as iOS Developer
 2+ years
 
-### 💼 Projects count
+### 💼 Project count
 10+
 
 ### 💻 Libraries I use in everyday work
