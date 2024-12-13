@@ -7,7 +7,7 @@
 3+ years
 
 ### 💼 Project count
-10+
+15+
 
 ### 💻 Libraries I use in everyday work
 RxSwift, SnapKit, Alamofire, KeychainSwift, Lottie, Combine, CombineCocoa, KingFisher
