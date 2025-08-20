@@ -4,7 +4,7 @@
 [FER](https://www.fer.unizg.hr/en) master's degree in Software Engineering and Information Systems
 
 ### ⌨️ Working experience as iOS Developer
-3+ years
+4+ years
 
 ### 💼 Project count
 15+
